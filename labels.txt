@@ -1,0 +1,7 @@
+0: Vata
+1: Pitta
+2: Kapha
+3: Vata-Pitta
+4: Pitta-Kapha
+5: Vata-Kapha
+6: Unknown
